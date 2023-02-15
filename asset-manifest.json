@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/annakrysenko/goit-react-hw-01-components/static/css/main.78738a65.css",
-    "main.js": "/annakrysenko/goit-react-hw-01-components/static/js/main.70d6d287.js",
-    "index.html": "/annakrysenko/goit-react-hw-01-components/index.html",
-    "main.78738a65.css.map": "/annakrysenko/goit-react-hw-01-components/static/css/main.78738a65.css.map",
-    "main.70d6d287.js.map": "/annakrysenko/goit-react-hw-01-components/static/js/main.70d6d287.js.map"
+    "main.css": "/annakrysenko.github.io/goit-react-hw-01-components/static/css/main.78738a65.css",
+    "main.js": "/annakrysenko.github.io/goit-react-hw-01-components/static/js/main.70d6d287.js",
+    "index.html": "/annakrysenko.github.io/goit-react-hw-01-components/index.html",
+    "main.78738a65.css.map": "/annakrysenko.github.io/goit-react-hw-01-components/static/css/main.78738a65.css.map",
+    "main.70d6d287.js.map": "/annakrysenko.github.io/goit-react-hw-01-components/static/js/main.70d6d287.js.map"
   },
   "entrypoints": [
     "static/css/main.78738a65.css",
